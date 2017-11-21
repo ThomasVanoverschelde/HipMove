@@ -1,3 +1,4 @@
 # HipMove
 
-//This code not available yet !
+// This code is not available in public yet. 
+// Contact me by email if you want see it.
